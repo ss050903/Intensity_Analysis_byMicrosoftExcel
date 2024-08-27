@@ -1,0 +1,2 @@
+This project was created to complement the methods section of the paper, including excel macro files for strength analysis. The paper was published online August 26, 2024, in land, a publication of MDPI Publishing.
+The title of the paper is: Trade-Off and Coordination between Development and Ecological Protection of Urban Agglomerations along Rivers: A Case Study of Urban Agglomerations in the Shandong Section of the Lower Yellow River
